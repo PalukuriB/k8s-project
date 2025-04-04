@@ -1,7 +1,5 @@
 # React Tetris V1
 
-PALUKURI BHASHWANTH
-
 Tetris game built with React
 
 <h1 align="center">
